@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Taj Mahal",
+    "description": "An ivory-white marble mausoleum built by Mughal emperor Shah Jahan, symbolizing eternal love.",
+    "state": "Uttar Pradesh",
+    "rating": 5,
+    "imageKey": "tajMahal"
+  },
+  {
+    "id": 2,
+    "title": "Qutub Minar",
+    "description": "The tallest brick minaret in the world, representing Indo-Islamic architecture.",
+    "state": "Delhi",
+    "rating": 4.8,
+    "imageKey": "qutubMinar"
+  },
+  {
+    "id": 3,
+    "title": "Hampi",
+    "description": "Ruins of the Vijayanagara Empire with magnificent temples, markets, and palaces.",
+    "state": "Karnataka",
+    "rating": 4.9,
+    "imageKey": "hampi"
+  },
+  {
+    "id": 4,
+    "title": "Konark Sun Temple",
+    "description": "13th-century temple shaped like a colossal chariot dedicated to the Sun God.",
+    "state": "Odisha",
+    "rating": 4.7,
+    "imageKey": "konark"
+  },
+  {
+    "id": 5,
+    "title": "Ajanta Caves",
+    "description": "Rock-cut Buddhist cave monuments famous for their paintings and sculptures.",
+    "state": "Maharashtra",
+    "rating": 4.8,
+    "imageKey": "ajanta"
+  },
+  {
+    "id": 6,
+    "title": "Ellora Caves",
+    "description": "34 rock-cut temples and monasteries dedicated to Buddhism, Hinduism, and Jainism.",
+    "state": "Maharashtra",
+    "rating": 4.9,
+    "imageKey": "ellora"
+  },
+  {
+    "id": 7,
+    "title": "Khajuraho Temples",
+    "description": "Group of Hindu and Jain temples famous for their intricate erotic sculptures.",
+    "state": "Madhya Pradesh",
+    "rating": 4.6,
+    "imageKey": "khajuraho"
+  },
+  {
+    "id": 8,
+    "title": "Red Fort",
+    "description": "A symbol of India's sovereignty, built in red sandstone by Emperor Shah Jahan.",
+    "state": "Delhi",
+    "rating": 4.7,
+    "imageKey": "redFort"
+  },
+  {
+    "id": 9,
+    "title": "Sanchi Stupa",
+    "description": "A Buddhist complex famous for its Great Stupa commissioned by Emperor Ashoka.",
+    "state": "Madhya Pradesh",
+    "rating": 4.5,
+    "imageKey": "sanchi"
+  },
+  {
+    "id": 10,
+    "title": "Charminar",
+    "description": "Iconic mosque and monument of Hyderabad, built in 1591 with Indo-Islamic architecture.",
+    "state": "Telangana",
+    "rating": 4.6,
+    "imageKey": "charminar"
+  }
+]
