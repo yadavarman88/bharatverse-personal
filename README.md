@@ -5,7 +5,7 @@ AI cultural guide, interactive quizzes, and (new in this edition) a working
 **Trip Planner** that generates day-by-day itineraries with an editable budget
 breakdown.
 
-**Live demo (this fork):** _will be added after Vercel deployment_
+**Live demo (this fork):** https://bharatverse-personal.vercel.app
 **Original live deployment:** https://bharat-verse-theta.vercel.app (owned by Team Netaji Ninjas)
 
 ---
