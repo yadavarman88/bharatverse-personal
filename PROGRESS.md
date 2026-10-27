@@ -9,5 +9,5 @@
 - [x] Fake homepage stats/newsletter removed
 - [x] README + CHANGELOG rewritten with attribution
 - [x] Git repo initialised, initial commit made
-- [ ] Push to GitHub `bharatverse-personal` — BLOCKED: `gh` authenticated? re-run `gh auth login`
-- [ ] Vercel deploy — BLOCKED: stored Vercel CLI token invalid; run `vercel login`
+- [x] Pushed to https://github.com/yadavarman88/bharatverse-personal (public)
+- [x] Deployed to https://bharatverse-personal.vercel.app (production, READY)
